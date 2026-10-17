@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="620" viewBox="0 0 1000 620">
+<rect width="100%" height="100%" fill="white"/>
+<line x1="95" y1="500.0" x2="960" y2="500.0" stroke="#dddddd"/>
+<text x="80" y="506.0" text-anchor="end" font-family="Arial,sans-serif" font-size="18" fill="#111111">0</text>
+<line x1="95" y1="444.2857142857143" x2="960" y2="444.2857142857143" stroke="#dddddd"/>
+<text x="80" y="450.2857142857143" text-anchor="end" font-family="Arial,sans-serif" font-size="18" fill="#111111">100</text>
+<line x1="95" y1="388.57142857142856" x2="960" y2="388.57142857142856" stroke="#dddddd"/>
+<text x="80" y="394.57142857142856" text-anchor="end" font-family="Arial,sans-serif" font-size="18" fill="#111111">200</text>
+<line x1="95" y1="332.8571428571429" x2="960" y2="332.8571428571429" stroke="#dddddd"/>
+<text x="80" y="338.8571428571429" text-anchor="end" font-family="Arial,sans-serif" font-size="18" fill="#111111">300</text>
+<line x1="95" y1="277.14285714285717" x2="960" y2="277.14285714285717" stroke="#dddddd"/>
+<text x="80" y="283.14285714285717" text-anchor="end" font-family="Arial,sans-serif" font-size="18" fill="#111111">400</text>
+<line x1="95" y1="221.42857142857144" x2="960" y2="221.42857142857144" stroke="#dddddd"/>
+<text x="80" y="227.42857142857144" text-anchor="end" font-family="Arial,sans-serif" font-size="18" fill="#111111">500</text>
+<line x1="95" y1="165.71428571428572" x2="960" y2="165.71428571428572" stroke="#dddddd"/>
+<text x="80" y="171.71428571428572" text-anchor="end" font-family="Arial,sans-serif" font-size="18" fill="#111111">600</text>
+<line x1="95" y1="110.0" x2="960" y2="110.0" stroke="#dddddd"/>
+<text x="80" y="116.0" text-anchor="end" font-family="Arial,sans-serif" font-size="18" fill="#111111">700</text>
+<text x="95" y="40" text-anchor="start" font-family="Arial,sans-serif" font-size="26" fill="#111111">Experiment 1: mean reaction time (ms)</text>
+<rect x="142" y="240.5862906052655" width="48" height="259.4137093947345" fill="#4c4c4c"/>
+<text x="166" y="230.5862906052655" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#111111">465.6</text>
+<rect x="198" y="218.18630212704124" width="48" height="281.81369787295876" fill="#7c9fbf"/>
+<text x="222" y="208.18630212704124" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#111111">505.8</text>
+<text x="195" y="535" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#111111">Arrows</text>
+<text x="195" y="562" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#111111">Cross</text>
+<rect x="352" y="243.2523978241959" width="48" height="256.7476021758041" fill="#4c4c4c"/>
+<text x="376" y="233.2523978241959" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#111111">460.8</text>
+<rect x="408" y="217.7017749449945" width="48" height="282.2982250550055" fill="#7c9fbf"/>
+<text x="432" y="207.7017749449945" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#111111">506.7</text>
+<text x="405" y="535" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#111111">Arrows</text>
+<text x="405" y="562" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#111111">Object</text>
+<rect x="562" y="162.72002600652615" width="48" height="337.27997399347385" fill="#4c4c4c"/>
+<text x="586" y="152.72002600652615" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#111111">605.4</text>
+<rect x="618" y="174.75179761832862" width="48" height="325.2482023816714" fill="#7c9fbf"/>
+<text x="642" y="164.75179761832862" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#111111">583.8</text>
+<text x="615" y="535" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#111111">Gaze</text>
+<text x="615" y="562" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#111111">Cross</text>
+<rect x="772" y="163.4078585574474" width="48" height="336.5921414425526" fill="#4c4c4c"/>
+<text x="796" y="153.4078585574474" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#111111">604.1</text>
+<rect x="828" y="173.52885108498953" width="48" height="326.4711489150105" fill="#7c9fbf"/>
+<text x="852" y="163.52885108498953" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" fill="#111111">586.0</text>
+<text x="825" y="535" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" fill="#111111">Gaze</text>
+<text x="825" y="562" text-anchor="middle" font-family="Arial,sans-serif" font-size="18" fill="#111111">Object</text>
+<rect x="300" y="70" width="20" height="20" fill="#4c4c4c"/>
+<text x="330" y="88" text-anchor="start" font-family="Arial,sans-serif" font-size="19" fill="#111111">Congruent</text>
+<rect x="550" y="70" width="20" height="20" fill="#7c9fbf"/>
+<text x="580" y="88" text-anchor="start" font-family="Arial,sans-serif" font-size="19" fill="#111111">Incongruent</text>
+<text x="95" y="603" text-anchor="start" font-family="Arial,sans-serif" font-size="17" fill="#111111">Each participant contributes one mean per condition (N = 60). Descriptive means only.</text>
+</svg>

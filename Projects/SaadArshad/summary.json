@@ -1,0 +1,50 @@
+{
+  "participants": 60,
+  "experimental_trials": 15360,
+  "retained_trials": 14603,
+  "rows": [
+    {
+      "stimulus": "Arrows",
+      "fixation": "Cross",
+      "n": 60,
+      "congruent": 465.6143501956773,
+      "congruent_sd": 75.91569841979918,
+      "incongruent": 505.8194577206952,
+      "incongruent_sd": 83.54594693654983,
+      "effect": 40.20510752501792
+    },
+    {
+      "stimulus": "Arrows",
+      "fixation": "Object",
+      "n": 60,
+      "congruent": 460.82902954631504,
+      "congruent_sd": 76.70481536737374,
+      "incongruent": 506.68912189359963,
+      "incongruent_sd": 86.37936278005921,
+      "effect": 45.86009234728459
+    },
+    {
+      "stimulus": "Gaze",
+      "fixation": "Cross",
+      "n": 60,
+      "congruent": 605.3743122959787,
+      "congruent_sd": 62.78287567767299,
+      "incongruent": 583.7788247876153,
+      "incongruent_sd": 60.210070495107146,
+      "effect": -21.595487508363362
+    },
+    {
+      "stimulus": "Gaze",
+      "fixation": "Object",
+      "n": 60,
+      "congruent": 604.1397410507354,
+      "congruent_sd": 58.69146874716405,
+      "incongruent": 585.9738570269419,
+      "incongruent_sd": 61.8216031810626,
+      "effect": -18.165884023793524
+    }
+  ],
+  "raw_rows": 17732,
+  "raw_columns": 100,
+  "participant_mean_cells": 480
+}

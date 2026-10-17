@@ -18,7 +18,7 @@ For reaction-time summaries, retain correct trials with 200 < RT < 1300 ms. This
 
 ## Reproduction
 
-Run `python analyse_gaze.py` (requires pandas) beside `gaze_exp1_trials.csv`. It creates `gaze_summary.csv`, `gaze_participant_means.csv`, `gaze_table.csv`, and `summary.json`. The included `build_gaze.mjs` creates the editable presentation figure and table from the JSON with `@oai/artifact-tool`.
+Run `python analyse_gaze.py` (requires pandas) beside `gaze_exp1_trials.csv`. It creates `gaze_summary.csv`, `gaze_participant_means.csv`, `gaze_table.csv`, `summary.json`, and `gaze_figure.svg`. The SVG figure uses Python's standard library. The presentation's editable figure and table use the same summary values, with display values rounded to one decimal place.
 
 The presentation reports the article's three-way interaction, b = -3.40 ms, p = .60, as a published result. The descriptive script does not refit the authors' Gamma mixed model.
 
